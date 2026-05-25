@@ -79,6 +79,6 @@ Repositório técnico com:
 
 ## Contato
 
-- LinkedIn: www.linkedin.com/in/cassia-faustino-marketingdigital
+- LinkedIn: https://www.linkedin.com/in/cassia-c-faustino/
 - E-mail: marketingdigitalfaustino@gmail.com
 - WhatsApp: +55 11 96803-2555
